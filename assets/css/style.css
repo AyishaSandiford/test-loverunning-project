@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterick wildcard selector to override default styles set by browser */
-
 * {
     padding: 0;
     margin: 0;
@@ -10,7 +9,6 @@
 }
 
 /* General styles */
-
 body {
     min-height: 100vh;
     display:flex;
@@ -19,12 +17,12 @@ body {
   
     /* Gerneric project styles */
     color:#3a3a3a;
-
 }
 
 h1 {
     font-family:'Oswald', sans-serif;
 }
+
 /* Header */
 header {
     background-color: lightcoral;
